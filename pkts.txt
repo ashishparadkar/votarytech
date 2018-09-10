@@ -1,0 +1,234 @@
+14:28:06.835854 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 178: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 164)
+    192.168.2.49.55599 > 239.255.255.250.1900: [udp sum ok] UDP, length 136
+14:28:06.945119 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 178: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 164)
+    192.168.2.49.55599 > 239.255.255.250.1900: [udp sum ok] UDP, length 136
+14:28:07.077966 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 371: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.2.49.59847 > 239.255.255.250.1900: [udp sum ok] UDP, length 329
+14:28:07.196115 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 380: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 366)
+    192.168.2.49.59847 > 239.255.255.250.1900: [udp sum ok] UDP, length 338
+14:28:07.307668 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 435: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 421)
+    192.168.2.49.59847 > 239.255.255.250.1900: [udp sum ok] UDP, length 393
+14:28:07.425367 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 451: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 437)
+    192.168.2.49.54523 > 239.255.255.250.1900: [udp sum ok] UDP, length 409
+14:28:07.554529 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_in { }]
+14:28:07.894103 10:bd:18:ba:d8:b3 > 01:80:c2:00:00:00, 802.3, length 39: LLC, dsap STP (0x42) Individual, ssap STP (0x42) Command, ctrl 0x03: STP 802.1w, Rapid STP, Flags [Learn, Forward, Agreement], bridge-id 8000.10:bd:18:ba:d8:b2.8031, length 47
+	message-age 0.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 8000.10:bd:18:ba:d8:b2, root-pathcost 0, port-role Designated
+14:28:08.129235 fc:4d:d4:32:62:66 > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 60: (tos 0x0, ttl 64, id 32782, offset 0, flags [DF], proto UDP (17), length 34)
+    192.168.2.198.37026 > 192.168.2.255.9876: [udp sum ok] UDP, length 6
+14:28:08.584394 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_ex { }]
+14:28:09.894084 10:bd:18:ba:d8:b3 > 01:80:c2:00:00:00, 802.3, length 39: LLC, dsap STP (0x42) Individual, ssap STP (0x42) Command, ctrl 0x03: STP 802.1w, Rapid STP, Flags [Learn, Forward, Agreement], bridge-id 8000.10:bd:18:ba:d8:b2.8031, length 47
+	message-age 0.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 8000.10:bd:18:ba:d8:b2, root-pathcost 0, port-role Designated
+14:28:10.842619 fc:4d:d4:32:61:e0 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 216: (tos 0x0, ttl 1, id 26697, offset 0, flags [none], proto UDP (17), length 202)
+    192.168.2.221.51955 > 239.255.255.250.1900: [udp sum ok] UDP, length 174
+14:28:11.129356 fc:4d:d4:32:62:66 > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 60: (tos 0x0, ttl 64, id 32818, offset 0, flags [DF], proto UDP (17), length 34)
+    192.168.2.198.37026 > 192.168.2.255.9876: [udp sum ok] UDP, length 6
+14:28:11.595555 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 370: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 356)
+    192.168.2.49.59392 > 239.255.255.250.1900: [udp sum ok] UDP, length 328
+14:28:11.705211 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 365)
+    192.168.2.49.59392 > 239.255.255.250.1900: [udp sum ok] UDP, length 337
+14:28:11.750634 fc:4d:d4:32:61:6e > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 63: (tos 0x0, ttl 64, id 12098, offset 0, flags [DF], proto UDP (17), length 49)
+    192.168.2.152.52824 > 192.168.2.255.32412: [udp sum ok] UDP, length 21
+14:28:11.750659 fc:4d:d4:32:61:6e > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 63: (tos 0x0, ttl 64, id 12099, offset 0, flags [DF], proto UDP (17), length 49)
+    192.168.2.152.51366 > 192.168.2.255.32414: [udp sum ok] UDP, length 21
+14:28:11.750684 fc:4d:d4:32:61:6e > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 136: (tos 0x0, ttl 1, id 33121, offset 0, flags [DF], proto UDP (17), length 122)
+    192.168.2.152.52086 > 239.255.255.250.1900: [udp sum ok] UDP, length 94
+14:28:11.815219 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 434: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 420)
+    192.168.2.49.59392 > 239.255.255.250.1900: [udp sum ok] UDP, length 392
+14:28:11.857104 fc:4d:d4:32:61:e0 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 216: (tos 0x0, ttl 1, id 26698, offset 0, flags [none], proto UDP (17), length 202)
+    192.168.2.221.51955 > 239.255.255.250.1900: [udp sum ok] UDP, length 174
+14:28:11.894055 10:bd:18:ba:d8:b3 > 01:80:c2:00:00:00, 802.3, length 39: LLC, dsap STP (0x42) Individual, ssap STP (0x42) Command, ctrl 0x03: STP 802.1w, Rapid STP, Flags [Learn, Forward, Agreement], bridge-id 8000.10:bd:18:ba:d8:b2.8031, length 47
+	message-age 0.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 8000.10:bd:18:ba:d8:b2, root-pathcost 0, port-role Designated
+14:28:11.925331 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 450: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 436)
+    192.168.2.49.37666 > 239.255.255.250.1900: [udp sum ok] UDP, length 408
+14:28:12.014306 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_ex { }]
+14:28:12.035691 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 178: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 164)
+    192.168.2.49.60803 > 239.255.255.250.1900: [udp sum ok] UDP, length 136
+14:28:12.089618 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 64, id 36060, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.2.117.35154 > 52.26.12.72.443: Flags [.], cksum 0x24a7 (correct), seq 2297151497, ack 2310351147, win 304, options [nop,nop,TS val 3820927535 ecr 105325134], length 0
+14:28:12.144971 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 178: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 164)
+    192.168.2.49.60803 > 239.255.255.250.1900: [udp sum ok] UDP, length 136
+14:28:12.277715 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 371: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.2.49.40908 > 239.255.255.250.1900: [udp sum ok] UDP, length 329
+14:28:12.357566 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 236, id 34930, offset 0, flags [DF], proto TCP (6), length 52)
+    52.26.12.72.443 > 192.168.2.117.35154: Flags [.], cksum 0x937f (correct), seq 1, ack 1, win 125, options [nop,nop,TS val 105327757 ecr 3820896714], length 0
+14:28:12.395962 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 380: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 366)
+    192.168.2.49.40908 > 239.255.255.250.1900: [udp sum ok] UDP, length 338
+14:28:12.504962 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 435: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 421)
+    192.168.2.49.40908 > 239.255.255.250.1900: [udp sum ok] UDP, length 393
+14:28:12.615312 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 451: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 437)
+    192.168.2.49.39709 > 239.255.255.250.1900: [udp sum ok] UDP, length 409
+14:28:12.744315 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_in { }]
+14:28:12.857702 fc:4d:d4:32:61:e0 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 216: (tos 0x0, ttl 1, id 26699, offset 0, flags [none], proto UDP (17), length 202)
+    192.168.2.221.51955 > 239.255.255.250.1900: [udp sum ok] UDP, length 174
+14:28:13.774272 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_ex { }]
+14:28:13.871983 fc:4d:d4:32:61:e0 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 216: (tos 0x0, ttl 1, id 26700, offset 0, flags [none], proto UDP (17), length 202)
+    192.168.2.221.51955 > 239.255.255.250.1900: [udp sum ok] UDP, length 174
+14:28:13.894025 10:bd:18:ba:d8:b3 > 01:80:c2:00:00:00, 802.3, length 39: LLC, dsap STP (0x42) Individual, ssap STP (0x42) Command, ctrl 0x03: STP 802.1w, Rapid STP, Flags [Learn, Forward, Agreement], bridge-id 8000.10:bd:18:ba:d8:b2.8031, length 47
+	message-age 0.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 8000.10:bd:18:ba:d8:b2, root-pathcost 0, port-role Designated
+14:28:13.998601 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 295: (tos 0x0, ttl 238, id 15894, offset 0, flags [DF], proto TCP (6), length 281)
+    54.152.66.94.443 > 192.168.2.117.33716: Flags [P.], cksum 0xc546 (correct), seq 1850013202:1850013431, ack 3959346730, win 422, options [nop,nop,TS val 582953411 ecr 393649926], length 229
+14:28:13.998665 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 64, id 1050, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.2.117.33716 > 54.152.66.94.443: Flags [.], cksum 0xc0a6 (correct), seq 1, ack 229, win 1444, options [nop,nop,TS val 393700240 ecr 582953411], length 0
+14:28:14.129485 fc:4d:d4:32:62:66 > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 60: (tos 0x0, ttl 64, id 33405, offset 0, flags [DF], proto UDP (17), length 34)
+    192.168.2.198.37026 > 192.168.2.255.9876: [udp sum ok] UDP, length 6
+14:28:14.775618 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 370: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 356)
+    192.168.2.49.45941 > 239.255.255.250.1900: [udp sum ok] UDP, length 328
+14:28:14.885165 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 365)
+    192.168.2.49.45941 > 239.255.255.250.1900: [udp sum ok] UDP, length 337
+14:28:14.995064 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 434: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 420)
+    192.168.2.49.45941 > 239.255.255.250.1900: [udp sum ok] UDP, length 392
+14:28:15.105391 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 450: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 436)
+    192.168.2.49.43525 > 239.255.255.250.1900: [udp sum ok] UDP, length 408
+14:28:15.215249 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 178: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 164)
+    192.168.2.49.38691 > 239.255.255.250.1900: [udp sum ok] UDP, length 136
+14:28:15.324751 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 178: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 164)
+    192.168.2.49.38691 > 239.255.255.250.1900: [udp sum ok] UDP, length 136
+14:28:15.463904 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 371: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.2.49.38221 > 239.255.255.250.1900: [udp sum ok] UDP, length 329
+14:28:15.575188 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 380: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 366)
+    192.168.2.49.38221 > 239.255.255.250.1900: [udp sum ok] UDP, length 338
+14:28:15.685625 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 435: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 421)
+    192.168.2.49.38221 > 239.255.255.250.1900: [udp sum ok] UDP, length 393
+14:28:15.708507 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 868: (tos 0x0, ttl 64, id 1051, offset 0, flags [DF], proto TCP (6), length 854)
+    192.168.2.117.33716 > 54.152.66.94.443: Flags [P.], cksum 0xe586 (correct), seq 1:803, ack 229, win 1444, options [nop,nop,TS val 393701950 ecr 582953411], length 802
+14:28:15.799448 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 451: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 437)
+    192.168.2.49.51270 > 239.255.255.250.1900: [udp sum ok] UDP, length 409
+14:28:15.893997 10:bd:18:ba:d8:b3 > 01:80:c2:00:00:00, 802.3, length 39: LLC, dsap STP (0x42) Individual, ssap STP (0x42) Command, ctrl 0x03: STP 802.1w, Rapid STP, Flags [Learn, Forward, Agreement], bridge-id 8000.10:bd:18:ba:d8:b2.8031, length 47
+	message-age 0.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 8000.10:bd:18:ba:d8:b2, root-pathcost 0, port-role Designated
+14:28:15.934267 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_in { }]
+14:28:15.993380 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 238, id 15895, offset 0, flags [DF], proto TCP (6), length 52)
+    54.152.66.94.443 > 192.168.2.117.33716: Flags [.], cksum 0xb8da (correct), seq 229, ack 803, win 422, options [nop,nop,TS val 582953917 ecr 393701950], length 0
+14:28:16.750699 fc:4d:d4:32:61:6e > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 63: (tos 0x0, ttl 64, id 12843, offset 0, flags [DF], proto UDP (17), length 49)
+    192.168.2.152.52824 > 192.168.2.255.32412: [udp sum ok] UDP, length 21
+14:28:16.750747 fc:4d:d4:32:61:6e > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 63: (tos 0x0, ttl 64, id 12844, offset 0, flags [DF], proto UDP (17), length 49)
+    192.168.2.152.51366 > 192.168.2.255.32414: [udp sum ok] UDP, length 21
+14:28:16.974226 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_ex { }]
+14:28:17.129596 fc:4d:d4:32:62:66 > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 60: (tos 0x0, ttl 64, id 33914, offset 0, flags [DF], proto UDP (17), length 34)
+    192.168.2.198.37026 > 192.168.2.255.9876: [udp sum ok] UDP, length 6
+14:28:17.893962 10:bd:18:ba:d8:b3 > 01:80:c2:00:00:00, 802.3, length 39: LLC, dsap STP (0x42) Individual, ssap STP (0x42) Command, ctrl 0x03: STP 802.1w, Rapid STP, Flags [Learn, Forward, Agreement], bridge-id 8000.10:bd:18:ba:d8:b2.8031, length 47
+	message-age 0.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 8000.10:bd:18:ba:d8:b2, root-pathcost 0, port-role Designated
+14:28:18.975244 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 370: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 356)
+    192.168.2.49.38063 > 239.255.255.250.1900: [udp sum ok] UDP, length 328
+14:28:19.085257 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 365)
+    192.168.2.49.38063 > 239.255.255.250.1900: [udp sum ok] UDP, length 337
+14:28:19.195146 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 434: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 420)
+    192.168.2.49.38063 > 239.255.255.250.1900: [udp sum ok] UDP, length 392
+14:28:19.305493 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 450: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 436)
+    192.168.2.49.39574 > 239.255.255.250.1900: [udp sum ok] UDP, length 408
+14:28:19.415884 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 178: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 164)
+    192.168.2.49.52523 > 239.255.255.250.1900: [udp sum ok] UDP, length 136
+14:28:19.525127 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 178: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 164)
+    192.168.2.49.52523 > 239.255.255.250.1900: [udp sum ok] UDP, length 136
+14:28:19.580972 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 74: (tos 0x0, ttl 64, id 23120, offset 0, flags [DF], proto UDP (17), length 60)
+    192.168.2.117.36282 > 192.168.4.8.53: [udp sum ok] 39728+ A? guce.yahoo.com. (32)
+14:28:19.580992 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 74: (tos 0x0, ttl 64, id 35753, offset 0, flags [DF], proto UDP (17), length 60)
+    192.168.2.117.36282 > 192.168.4.20.53: [udp sum ok] 39728+ A? guce.yahoo.com. (32)
+14:28:19.581003 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 74: (tos 0x0, ttl 64, id 42773, offset 0, flags [DF], proto UDP (17), length 60)
+    192.168.2.117.36282 > 8.8.8.8.53: [udp sum ok] 39728+ A? guce.yahoo.com. (32)
+14:28:19.581038 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 74: (tos 0x0, ttl 64, id 23121, offset 0, flags [DF], proto UDP (17), length 60)
+    192.168.2.117.36282 > 192.168.4.8.53: [udp sum ok] 7243+ A? guce.yahoo.com. (32)
+14:28:19.654810 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 200: (tos 0x0, ttl 128, id 19965, offset 0, flags [DF], proto UDP (17), length 186)
+    192.168.4.20.53 > 192.168.2.117.36282: [udp sum ok] 39728 q: A? guce.yahoo.com. 5/0/0 guce.yahoo.com. [22m4s] CNAME real.rotation.guce.aws.oath.cloud., real.rotation.guce.aws.oath.cloud. [38s] CNAME prod-rotation-v2.guce.aws.oath.cloud., prod-rotation-v2.guce.aws.oath.cloud. [38s] A 52.220.254.47, prod-rotation-v2.guce.aws.oath.cloud. [38s] A 52.74.87.9, prod-rotation-v2.guce.aws.oath.cloud. [38s] A 13.250.69.160 (158)
+14:28:19.654968 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 74: (tos 0x0, ttl 64, id 35764, offset 0, flags [DF], proto UDP (17), length 60)
+    192.168.2.117.36282 > 192.168.4.20.53: [udp sum ok] 13674+ AAAA? guce.yahoo.com. (32)
+14:28:19.656127 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 200: (tos 0x0, ttl 128, id 8984, offset 0, flags [DF], proto UDP (17), length 186)
+    192.168.4.8.53 > 192.168.2.117.36282: [udp sum ok] 39728 q: A? guce.yahoo.com. 5/0/0 guce.yahoo.com. [10m25s] CNAME real.rotation.guce.aws.oath.cloud., real.rotation.guce.aws.oath.cloud. [45s] CNAME prod-rotation-v2.guce.aws.oath.cloud., prod-rotation-v2.guce.aws.oath.cloud. [45s] A 52.220.254.47, prod-rotation-v2.guce.aws.oath.cloud. [45s] A 13.250.69.160, prod-rotation-v2.guce.aws.oath.cloud. [45s] A 52.74.87.9 (158)
+14:28:19.656135 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 200: (tos 0x0, ttl 128, id 8985, offset 0, flags [DF], proto UDP (17), length 186)
+    192.168.4.8.53 > 192.168.2.117.36282: [udp sum ok] 7243 q: A? guce.yahoo.com. 5/0/0 guce.yahoo.com. [10m25s] CNAME real.rotation.guce.aws.oath.cloud., real.rotation.guce.aws.oath.cloud. [45s] CNAME prod-rotation-v2.guce.aws.oath.cloud., prod-rotation-v2.guce.aws.oath.cloud. [45s] A 13.250.69.160, prod-rotation-v2.guce.aws.oath.cloud. [45s] A 52.74.87.9, prod-rotation-v2.guce.aws.oath.cloud. [45s] A 52.220.254.47 (158)
+14:28:19.656374 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 74: (tos 0x0, ttl 64, id 26081, offset 0, flags [DF], proto TCP (6), length 60)
+    192.168.2.117.48260 > 52.220.254.47.443: Flags [S], cksum 0x4164 (correct), seq 568998146, win 29200, options [mss 1460,sackOK,TS val 1955467432 ecr 0,nop,wscale 7], length 0
+14:28:19.661609 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 371: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.2.49.44673 > 239.255.255.250.1900: [udp sum ok] UDP, length 329
+14:28:19.683435 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 200: (tos 0x0, ttl 118, id 32054, offset 0, flags [none], proto UDP (17), length 186)
+    8.8.8.8.53 > 192.168.2.117.36282: [udp sum ok] 39728 q: A? guce.yahoo.com. 5/0/0 guce.yahoo.com. [26m] CNAME real.rotation.guce.aws.oath.cloud., real.rotation.guce.aws.oath.cloud. [28s] CNAME prod-rotation-v2.guce.aws.oath.cloud., prod-rotation-v2.guce.aws.oath.cloud. [59s] A 52.220.254.47, prod-rotation-v2.guce.aws.oath.cloud. [59s] A 13.250.69.160, prod-rotation-v2.guce.aws.oath.cloud. [59s] A 52.74.87.9 (158)
+14:28:19.707174 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 74: (tos 0x0, ttl 242, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    52.220.254.47.443 > 192.168.2.117.48260: Flags [S.], cksum 0x0756 (correct), seq 3978156251, ack 568998147, win 26847, options [mss 1460,sackOK,TS val 419062841 ecr 1955467432,nop,wscale 8], length 0
+14:28:19.707225 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 64, id 26082, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.2.117.48260 > 52.220.254.47.443: Flags [.], cksum 0x9dea (correct), seq 1, ack 1, win 229, options [nop,nop,TS val 1955467483 ecr 419062841], length 0
+14:28:19.710141 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 583: (tos 0x0, ttl 64, id 26083, offset 0, flags [DF], proto TCP (6), length 569)
+    192.168.2.117.48260 > 52.220.254.47.443: Flags [P.], cksum 0x89bf (correct), seq 1:518, ack 1, win 229, options [nop,nop,TS val 1955467485 ecr 419062841], length 517
+14:28:19.760861 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 242, id 5312, offset 0, flags [DF], proto TCP (6), length 52)
+    52.220.254.47.443 > 192.168.2.117.48260: Flags [.], cksum 0x9c4d (correct), seq 1, ack 518, win 110, options [nop,nop,TS val 419062854 ecr 1955467485], length 0
+14:28:19.772086 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 2962: (tos 0x0, ttl 242, id 5313, offset 0, flags [DF], proto TCP (6), length 2948)
+    52.220.254.47.443 > 192.168.2.117.48260: Flags [.], cksum 0x01a0 (incorrect -> 0x89e3), seq 1:2897, ack 518, win 110, options [nop,nop,TS val 419062856 ecr 1955467485], length 2896
+14:28:19.772120 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 64, id 26084, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.2.117.48260 > 52.220.254.47.443: Flags [.], cksum 0x9019 (correct), seq 518, ack 2897, win 274, options [nop,nop,TS val 1955467547 ecr 419062856], length 0
+14:28:19.775926 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 2392: (tos 0x0, ttl 242, id 5315, offset 0, flags [DF], proto TCP (6), length 2378)
+    52.220.254.47.443 > 192.168.2.117.48260: Flags [P.], cksum 0xff65 (incorrect -> 0xbafd), seq 2897:5223, ack 518, win 110, options [nop,nop,TS val 419062856 ecr 1955467485], length 2326
+14:28:19.775960 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 64, id 26085, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.2.117.48260 > 52.220.254.47.443: Flags [.], cksum 0x86db (correct), seq 518, ack 5223, win 310, options [nop,nop,TS val 1955467551 ecr 419062856], length 0
+14:28:19.776694 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 380: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 366)
+    192.168.2.49.44673 > 239.255.255.250.1900: [udp sum ok] UDP, length 338
+14:28:19.782292 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 192: (tos 0x0, ttl 64, id 26086, offset 0, flags [DF], proto TCP (6), length 178)
+    192.168.2.117.48260 > 52.220.254.47.443: Flags [P.], cksum 0xf066 (correct), seq 518:644, ack 5223, win 310, options [nop,nop,TS val 1955467558 ecr 419062856], length 126
+14:28:19.782428 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 1472: (tos 0x0, ttl 64, id 26087, offset 0, flags [DF], proto TCP (6), length 1458)
+    192.168.2.117.48260 > 52.220.254.47.443: Flags [P.], cksum 0x9b44 (correct), seq 644:2050, ack 5223, win 310, options [nop,nop,TS val 1955467558 ecr 419062856], length 1406
+14:28:19.836929 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 242, id 5317, offset 0, flags [DF], proto TCP (6), length 52)
+    52.220.254.47.443 > 192.168.2.117.48260: Flags [.], cksum 0x8184 (correct), seq 5223, ack 2050, win 121, options [nop,nop,TS val 419062873 ecr 1955467558], length 0
+14:28:19.837502 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 117: (tos 0x0, ttl 242, id 5318, offset 0, flags [DF], proto TCP (6), length 103)
+    52.220.254.47.443 > 192.168.2.117.48260: Flags [P.], cksum 0x31f5 (correct), seq 5223:5274, ack 2050, win 121, options [nop,nop,TS val 419062873 ecr 1955467558], length 51
+14:28:19.843032 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 715: (tos 0x0, ttl 242, id 5319, offset 0, flags [DF], proto TCP (6), length 701)
+    52.220.254.47.443 > 192.168.2.117.48260: Flags [P.], cksum 0x16ff (correct), seq 5274:5923, ack 2050, win 121, options [nop,nop,TS val 419062874 ecr 1955467558], length 649
+14:28:19.843156 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 64, id 26088, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.2.117.48260 > 52.220.254.47.443: Flags [.], cksum 0x7db7 (correct), seq 2050, ack 5923, win 333, options [nop,nop,TS val 1955467619 ecr 419062873], length 0
+14:28:19.893932 10:bd:18:ba:d8:b3 > 01:80:c2:00:00:00, 802.3, length 39: LLC, dsap STP (0x42) Individual, ssap STP (0x42) Command, ctrl 0x03: STP 802.1w, Rapid STP, Flags [Learn, Forward, Agreement], bridge-id 8000.10:bd:18:ba:d8:b2.8031, length 47
+	message-age 0.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 8000.10:bd:18:ba:d8:b2, root-pathcost 0, port-role Designated
+14:28:19.894965 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 435: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 421)
+    192.168.2.49.44673 > 239.255.255.250.1900: [udp sum ok] UDP, length 393
+14:28:20.005094 8c:e7:48:72:7d:e9 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 451: (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 437)
+    192.168.2.49.41656 > 239.255.255.250.1900: [udp sum ok] UDP, length 409
+14:28:20.129712 fc:4d:d4:32:62:66 > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 60: (tos 0x0, ttl 64, id 34431, offset 0, flags [DF], proto UDP (17), length 34)
+    192.168.2.198.37026 > 192.168.2.255.9876: [udp sum ok] UDP, length 6
+14:28:20.134136 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_in { }]
+14:28:21.174138 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_ex { }]
+14:28:21.581631 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 276: (tos 0x0, ttl 64, id 58020, offset 0, flags [DF], proto TCP (6), length 262)
+    192.168.2.117.52434 > 203.84.220.182.443: Flags [P.], cksum 0x6383 (correct), seq 2439556292:2439556502, ack 741195649, win 3171, options [nop,nop,TS val 1215571560 ecr 3462521684], length 210
+14:28:21.608706 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 59, id 7901, offset 0, flags [DF], proto TCP (6), length 52)
+    203.84.220.182.443 > 192.168.2.117.52434: Flags [.], cksum 0x2113 (correct), seq 1, ack 210, win 716, options [nop,nop,TS val 3462574394 ecr 1215571560], length 0
+14:28:21.750650 fc:4d:d4:32:61:6e > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 63: (tos 0x0, ttl 64, id 12904, offset 0, flags [DF], proto UDP (17), length 49)
+    192.168.2.152.52824 > 192.168.2.255.32412: [udp sum ok] UDP, length 21
+14:28:21.750673 fc:4d:d4:32:61:6e > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 63: (tos 0x0, ttl 64, id 12905, offset 0, flags [DF], proto UDP (17), length 49)
+    192.168.2.152.51366 > 192.168.2.255.32414: [udp sum ok] UDP, length 21
+14:28:21.750815 fc:4d:d4:32:61:6e > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 136: (tos 0x0, ttl 1, id 34079, offset 0, flags [DF], proto UDP (17), length 122)
+    192.168.2.152.52086 > 239.255.255.250.1900: [udp sum ok] UDP, length 94
+14:28:21.893923 10:bd:18:ba:d8:b3 > 01:80:c2:00:00:00, 802.3, length 39: LLC, dsap STP (0x42) Individual, ssap STP (0x42) Command, ctrl 0x03: STP 802.1w, Rapid STP, Flags [Learn, Forward, Agreement], bridge-id 8000.10:bd:18:ba:d8:b2.8031, length 47
+	message-age 0.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 8000.10:bd:18:ba:d8:b2, root-pathcost 0, port-role Designated
+14:28:22.096563 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 104: (tos 0x0, ttl 59, id 7902, offset 0, flags [DF], proto TCP (6), length 90)
+    203.84.220.182.443 > 192.168.2.117.52434: Flags [P.], cksum 0x533f (correct), seq 1:39, ack 210, win 716, options [nop,nop,TS val 3462574883 ecr 1215571560], length 38
+14:28:22.096625 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 64, id 58021, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.2.117.52434 > 203.84.220.182.443: Flags [.], cksum 0x136a (correct), seq 210, ack 39, win 3171, options [nop,nop,TS val 1215572075 ecr 3462574883], length 0
+14:28:22.096635 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 277: (tos 0x0, ttl 59, id 7903, offset 0, flags [DF], proto TCP (6), length 263)
+    203.84.220.182.443 > 192.168.2.117.52434: Flags [P.], cksum 0x4301 (correct), seq 39:250, ack 210, win 716, options [nop,nop,TS val 3462574883 ecr 1215571560], length 211
+14:28:22.096646 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 64, id 58022, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.2.117.52434 > 203.84.220.182.443: Flags [.], cksum 0x1297 (correct), seq 210, ack 250, win 3171, options [nop,nop,TS val 1215572075 ecr 3462574883], length 0
+14:28:22.294175 8c:e7:48:72:7d:e9 > 01:00:5e:00:00:16, ethertype IPv4 (0x0800), length 60: (tos 0xc0, ttl 1, id 0, offset 0, flags [DF], proto IGMP (2), length 40, options (RA))
+    192.168.2.49 > 224.0.0.22: igmp v3 report, 1 group record(s) [gaddr 239.255.255.250 to_ex { }]
+14:28:22.585639 c0:3f:d5:fe:f7:d4 > 18:b1:69:3e:5a:34, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 64, id 36061, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.2.117.35154 > 52.26.12.72.443: Flags [.], cksum 0xf167 (correct), seq 0, ack 1, win 304, options [nop,nop,TS val 3820938031 ecr 105327757], length 0
+14:28:22.853597 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 66: (tos 0x0, ttl 236, id 34931, offset 0, flags [DF], proto TCP (6), length 52)
+    52.26.12.72.443 > 192.168.2.117.35154: Flags [.], cksum 0x893f (correct), seq 1, ack 1, win 125, options [nop,nop,TS val 105330381 ecr 3820896714], length 0
+14:28:23.129828 fc:4d:d4:32:62:66 > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 60: (tos 0x0, ttl 64, id 34656, offset 0, flags [DF], proto UDP (17), length 34)
+    192.168.2.198.37026 > 192.168.2.255.9876: [udp sum ok] UDP, length 6
+14:28:23.404441 18:b1:69:3e:5a:34 > c0:3f:d5:fe:f7:d4, ethertype IPv4 (0x0800), length 152: (tos 0x0, ttl 128, id 19974, offset 0, flags [DF], proto UDP (17), length 138)
+    192.168.4.20.53 > 192.168.2.117.36282: [udp sum ok] 13674 q: AAAA? guce.yahoo.com. 2/0/0 guce.yahoo.com. [22m4s] CNAME real.rotation.guce.aws.oath.cloud., real.rotation.guce.aws.oath.cloud. [38s] CNAME prod-rotation-v2.guce.aws.oath.cloud. (110)
+14:28:23.893854 10:bd:18:ba:d8:b3 > 01:80:c2:00:00:00, 802.3, length 39: LLC, dsap STP (0x42) Individual, ssap STP (0x42) Command, ctrl 0x03: STP 802.1w, Rapid STP, Flags [Learn, Forward, Agreement], bridge-id 8000.10:bd:18:ba:d8:b2.8031, length 47
+	message-age 0.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 8000.10:bd:18:ba:d8:b2, root-pathcost 0, port-role Designated
+
